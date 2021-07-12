@@ -1,0 +1,24 @@
+configuration {
+	width: 30;
+	lines: 6;
+	columns: 2;
+	font: "Envy Code R 10";
+	padding: 20;
+	show-icons: true;
+	line-margin: 10;
+	line-padding: 2;
+	separator-style: "solid";
+	hide-scrollbar: true;
+	theme: "~/.cache/wal/colors-rofi-dark.rasi";
+	color-normal: "#1c2023, #919ba0, #1c2023, #a4a4a4, #1c2023";
+	color-urgent: "argb:00000000, #f43753, argb:00000000, argb:00000000, #e29a49";
+	color-active: "argb:00000000, #49bbfb, argb:00000000, argb:00000000, #e29a49";
+	color-window: "#1c2023, #919ba0, #1c2023";
+	display-window: "";
+	display-run: "";
+	display-ssh: "";
+	display-drun: "";
+	display-combi: "";
+	kb-cancel: "Escape,Alt+F1";
+
+}

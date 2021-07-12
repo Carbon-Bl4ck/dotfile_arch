@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/cian/Pictures/wallhaven-qd5mkr.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0d0a0f",
+        "foreground": "#b4b9bf",
+        "cursor": "#b4b9bf"
+    },
+    "colors": {
+        "color0": "#0d0a0f",
+        "color1": "#926455",
+        "color2": "#B17253",
+        "color3": "#CA784F",
+        "color4": "#B78761",
+        "color5": "#D08A53",
+        "color6": "#D79B63",
+        "color7": "#b4b9bf",
+        "color8": "#7d8185",
+        "color9": "#926455",
+        "color10": "#B17253",
+        "color11": "#CA784F",
+        "color12": "#B78761",
+        "color13": "#D08A53",
+        "color14": "#D79B63",
+        "color15": "#b4b9bf"
+    }
+}

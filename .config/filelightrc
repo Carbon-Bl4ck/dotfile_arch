@@ -1,0 +1,19 @@
+[filelight_part]
+antialias=true
+contrast=75
+minFontPitch=6
+scanAcrossMounts=false
+scanRemoteMounts=false
+scheme=1
+showSmallFiles=false
+skipList[$e]=/dev/,/proc/,/sys/,/root/
+varyLabelFontSizes=true
+
+[window]
+LVDS1 Height 1440x900=392
+LVDS1 Width 1440x900=726
+LVDS1 XPosition 1440x900=14
+LVDS1 YPosition 1440x900=494
+RestorePositionForNextInstance=false
+State=AAAA/wAAAAD9AAAAAAAAAtYAAAE/AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAMAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAHgBsAG8AYwBhAHQAaQBvAG4AVABvAG8AbABCAGEAcgEAAAGg/////wAAAAAAAAAAAAAAFgB2AGkAZQB3AFQAbwBvAGwAQgBhAHIAAAAAAP////8AAAAAAAAAAA==
+ToolBarsMovable=Disabled

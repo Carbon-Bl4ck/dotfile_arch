@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/cian/Pictures/fox.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#090B3B",
+        "foreground": "#c9ecdb",
+        "cursor": "#c9ecdb"
+    },
+    "colors": {
+        "color0": "#090B3B",
+        "color1": "#386188",
+        "color2": "#4C7495",
+        "color3": "#5F9DA8",
+        "color4": "#73CDB5",
+        "color5": "#90AEA8",
+        "color6": "#9ADEAF",
+        "color7": "#c9ecdb",
+        "color8": "#8ca599",
+        "color9": "#386188",
+        "color10": "#4C7495",
+        "color11": "#5F9DA8",
+        "color12": "#73CDB5",
+        "color13": "#90AEA8",
+        "color14": "#9ADEAF",
+        "color15": "#c9ecdb"
+    }
+}

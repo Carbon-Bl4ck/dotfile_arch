@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/cian/Pictures/wallhaven-eyeewr.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#17110e",
+        "foreground": "#d7d5d9",
+        "cursor": "#d7d5d9"
+    },
+    "colors": {
+        "color0": "#17110e",
+        "color1": "#A89078",
+        "color2": "#C59977",
+        "color3": "#727985",
+        "color4": "#AEA194",
+        "color5": "#C8B6A5",
+        "color6": "#D6C8B6",
+        "color7": "#d7d5d9",
+        "color8": "#969597",
+        "color9": "#A89078",
+        "color10": "#C59977",
+        "color11": "#727985",
+        "color12": "#AEA194",
+        "color13": "#C8B6A5",
+        "color14": "#D6C8B6",
+        "color15": "#d7d5d9"
+    }
+}

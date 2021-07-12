@@ -1,0 +1,21 @@
+set $wallpaper /home/cian/Pictures/blocks-and-crickets.jpg
+
+set $background #3b2f45
+set $foreground #e4c7d9
+
+set $color0 #3b2f45
+set $color1 #E9918E
+set $color2 #CFB497
+set $color3 #EDB299
+set $color4 #DEA4A8
+set $color5 #E3CF9C
+set $color6 #F3D2AE
+set $color7 #e4c7d9
+set $color8 #9f8b97
+set $color9 #E9918E
+set $color10 #CFB497
+set $color11 #EDB299
+set $color12 #DEA4A8
+set $color13 #E3CF9C
+set $color14 #F3D2AE
+set $color15 #e4c7d9

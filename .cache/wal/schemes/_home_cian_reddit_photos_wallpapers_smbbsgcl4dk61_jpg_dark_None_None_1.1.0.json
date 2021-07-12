@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/cian/reddit/photos/wallpapers/smbbsgcl4dk61.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#071F30",
+        "foreground": "#8fb7c3",
+        "cursor": "#8fb7c3"
+    },
+    "colors": {
+        "color0": "#071F30",
+        "color1": "#FBCB67",
+        "color2": "#0C5786",
+        "color3": "#106A8F",
+        "color4": "#2E708F",
+        "color5": "#5D6285",
+        "color6": "#C1638A",
+        "color7": "#8fb7c3",
+        "color8": "#648088",
+        "color9": "#FBCB67",
+        "color10": "#0C5786",
+        "color11": "#106A8F",
+        "color12": "#2E708F",
+        "color13": "#5D6285",
+        "color14": "#C1638A",
+        "color15": "#8fb7c3"
+    }
+}

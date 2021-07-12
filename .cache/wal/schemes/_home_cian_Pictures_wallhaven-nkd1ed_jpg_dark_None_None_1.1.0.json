@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/cian/Pictures/wallhaven-nkd1ed.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#090605",
+        "foreground": "#b3b6bb",
+        "cursor": "#b3b6bb"
+    },
+    "colors": {
+        "color0": "#090605",
+        "color1": "#64574E",
+        "color2": "#965B2D",
+        "color3": "#C36A2E",
+        "color4": "#946E55",
+        "color5": "#AC8B6D",
+        "color6": "#D49C61",
+        "color7": "#b3b6bb",
+        "color8": "#7d7f82",
+        "color9": "#64574E",
+        "color10": "#965B2D",
+        "color11": "#C36A2E",
+        "color12": "#946E55",
+        "color13": "#AC8B6D",
+        "color14": "#D49C61",
+        "color15": "#b3b6bb"
+    }
+}

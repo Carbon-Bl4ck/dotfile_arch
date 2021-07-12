@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/cian/Pictures/lofi.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#1b1a25",
+        "foreground": "#c7c5ca",
+        "cursor": "#c7c5ca"
+    },
+    "colors": {
+        "color0": "#1b1a25",
+        "color1": "#2D538E",
+        "color2": "#2D5DA0",
+        "color3": "#516E9B",
+        "color4": "#648AAF",
+        "color5": "#529BCE",
+        "color6": "#9D8480",
+        "color7": "#c7c5ca",
+        "color8": "#8b898d",
+        "color9": "#2D538E",
+        "color10": "#2D5DA0",
+        "color11": "#516E9B",
+        "color12": "#648AAF",
+        "color13": "#529BCE",
+        "color14": "#9D8480",
+        "color15": "#c7c5ca"
+    }
+}

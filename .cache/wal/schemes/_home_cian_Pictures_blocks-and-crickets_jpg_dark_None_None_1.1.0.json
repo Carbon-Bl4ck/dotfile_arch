@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/cian/Pictures/blocks-and-crickets.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#3b2f45",
+        "foreground": "#e4c7d9",
+        "cursor": "#e4c7d9"
+    },
+    "colors": {
+        "color0": "#3b2f45",
+        "color1": "#E9918E",
+        "color2": "#CFB497",
+        "color3": "#EDB299",
+        "color4": "#DEA4A8",
+        "color5": "#E3CF9C",
+        "color6": "#F3D2AE",
+        "color7": "#e4c7d9",
+        "color8": "#9f8b97",
+        "color9": "#E9918E",
+        "color10": "#CFB497",
+        "color11": "#EDB299",
+        "color12": "#DEA4A8",
+        "color13": "#E3CF9C",
+        "color14": "#F3D2AE",
+        "color15": "#e4c7d9"
+    }
+}

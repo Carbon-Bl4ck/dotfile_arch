@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/cian/reddit/photos/wallpapers/ar3ds42xtz371.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0C0808",
+        "foreground": "#e8d9ca",
+        "cursor": "#e8d9ca"
+    },
+    "colors": {
+        "color0": "#0C0808",
+        "color1": "#B75645",
+        "color2": "#EF6160",
+        "color3": "#F29A5E",
+        "color4": "#DFAC56",
+        "color5": "#B37789",
+        "color6": "#F6A09F",
+        "color7": "#e8d9ca",
+        "color8": "#a2978d",
+        "color9": "#B75645",
+        "color10": "#EF6160",
+        "color11": "#F29A5E",
+        "color12": "#DFAC56",
+        "color13": "#B37789",
+        "color14": "#F6A09F",
+        "color15": "#e8d9ca"
+    }
+}

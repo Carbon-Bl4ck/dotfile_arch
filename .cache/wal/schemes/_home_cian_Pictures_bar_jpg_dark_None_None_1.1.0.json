@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/cian/Pictures/bar.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#020117",
+        "foreground": "#b1c3bf",
+        "cursor": "#b1c3bf"
+    },
+    "colors": {
+        "color0": "#020117",
+        "color1": "#64656A",
+        "color2": "#A54934",
+        "color3": "#966F56",
+        "color4": "#CBA05C",
+        "color5": "#377488",
+        "color6": "#4C788C",
+        "color7": "#b1c3bf",
+        "color8": "#7b8885",
+        "color9": "#64656A",
+        "color10": "#A54934",
+        "color11": "#966F56",
+        "color12": "#CBA05C",
+        "color13": "#377488",
+        "color14": "#4C788C",
+        "color15": "#b1c3bf"
+    }
+}

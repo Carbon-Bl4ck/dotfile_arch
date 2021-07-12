@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/cian/Pictures/mechkb.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#11181f",
+        "foreground": "#cbd1d4",
+        "cursor": "#cbd1d4"
+    },
+    "colors": {
+        "color0": "#11181f",
+        "color1": "#5C6065",
+        "color2": "#A26157",
+        "color3": "#B69764",
+        "color4": "#4C699B",
+        "color5": "#758481",
+        "color6": "#6CA9C2",
+        "color7": "#cbd1d4",
+        "color8": "#8e9294",
+        "color9": "#5C6065",
+        "color10": "#A26157",
+        "color11": "#B69764",
+        "color12": "#4C699B",
+        "color13": "#758481",
+        "color14": "#6CA9C2",
+        "color15": "#cbd1d4"
+    }
+}

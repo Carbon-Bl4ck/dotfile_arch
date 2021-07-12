@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/cian/Pictures/wallhaven-q2r1vr.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#151411",
+        "foreground": "#e9e8e5",
+        "cursor": "#e9e8e5"
+    },
+    "colors": {
+        "color0": "#151411",
+        "color1": "#A3A19C",
+        "color2": "#B2B1AC",
+        "color3": "#C0BFBA",
+        "color4": "#C3C2BD",
+        "color5": "#D2D1CC",
+        "color6": "#E0DFDA",
+        "color7": "#e9e8e5",
+        "color8": "#a3a2a0",
+        "color9": "#A3A19C",
+        "color10": "#B2B1AC",
+        "color11": "#C0BFBA",
+        "color12": "#C3C2BD",
+        "color13": "#D2D1CC",
+        "color14": "#E0DFDA",
+        "color15": "#e9e8e5"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/cian/reddit/photos/wallpapers/w4lmp7il3al61.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0d0a0d",
+        "foreground": "#e3e7ee",
+        "cursor": "#e3e7ee"
+    },
+    "colors": {
+        "color0": "#0d0a0d",
+        "color1": "#7691C1",
+        "color2": "#9496A4",
+        "color3": "#D8B9B1",
+        "color4": "#91B3EB",
+        "color5": "#9CC5FC",
+        "color6": "#ADD1FD",
+        "color7": "#e3e7ee",
+        "color8": "#9ea1a6",
+        "color9": "#7691C1",
+        "color10": "#9496A4",
+        "color11": "#D8B9B1",
+        "color12": "#91B3EB",
+        "color13": "#9CC5FC",
+        "color14": "#ADD1FD",
+        "color15": "#e3e7ee"
+    }
+}

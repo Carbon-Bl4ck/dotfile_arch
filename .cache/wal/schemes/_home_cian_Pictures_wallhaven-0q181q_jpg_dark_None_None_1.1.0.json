@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/cian/Pictures/wallhaven-0q181q.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#07091A",
+        "foreground": "#e0dfde",
+        "cursor": "#e0dfde"
+    },
+    "colors": {
+        "color0": "#07091A",
+        "color1": "#979497",
+        "color2": "#A19D9C",
+        "color3": "#A3A19E",
+        "color4": "#919BAC",
+        "color5": "#ACAAA8",
+        "color6": "#AEB8C5",
+        "color7": "#e0dfde",
+        "color8": "#9c9c9b",
+        "color9": "#979497",
+        "color10": "#A19D9C",
+        "color11": "#A3A19E",
+        "color12": "#919BAC",
+        "color13": "#ACAAA8",
+        "color14": "#AEB8C5",
+        "color15": "#e0dfde"
+    }
+}

@@ -1,0 +1,6 @@
+2021/04/13-13:35:49.509 190e Reusing MANIFEST /home/cian/.config/Vieb/Partitions/main/Local Storage/leveldb/MANIFEST-000001
+2021/04/13-13:35:49.509 190e Recovering log #3
+2021/04/13-13:35:49.510 190e Reusing old log /home/cian/.config/Vieb/Partitions/main/Local Storage/leveldb/000003.log 
+2021/04/13-13:41:27.347 190f Level-0 table #5: started
+2021/04/13-13:41:27.405 190f Level-0 table #5: 10352 bytes OK
+2021/04/13-13:41:27.438 190f Delete type=0 #3

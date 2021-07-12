@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/cian/Pictures/wallhaven-nzv92g.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0E0B07",
+        "foreground": "#decea8",
+        "cursor": "#decea8"
+    },
+    "colors": {
+        "color0": "#0E0B07",
+        "color1": "#956A29",
+        "color2": "#C37924",
+        "color3": "#907648",
+        "color4": "#77865A",
+        "color5": "#A7965B",
+        "color6": "#C6A547",
+        "color7": "#decea8",
+        "color8": "#9b9075",
+        "color9": "#956A29",
+        "color10": "#C37924",
+        "color11": "#907648",
+        "color12": "#77865A",
+        "color13": "#A7965B",
+        "color14": "#C6A547",
+        "color15": "#decea8"
+    }
+}

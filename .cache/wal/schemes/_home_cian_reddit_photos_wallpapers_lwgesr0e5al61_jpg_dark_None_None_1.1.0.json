@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/cian/reddit/photos/wallpapers/lwgesr0e5al61.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#09162D",
+        "foreground": "#adbccd",
+        "cursor": "#adbccd"
+    },
+    "colors": {
+        "color0": "#09162D",
+        "color1": "#56556F",
+        "color2": "#AC614A",
+        "color3": "#C18E67",
+        "color4": "#2D3781",
+        "color5": "#2D578A",
+        "color6": "#566D92",
+        "color7": "#adbccd",
+        "color8": "#79838f",
+        "color9": "#56556F",
+        "color10": "#AC614A",
+        "color11": "#C18E67",
+        "color12": "#2D3781",
+        "color13": "#2D578A",
+        "color14": "#566D92",
+        "color15": "#adbccd"
+    }
+}

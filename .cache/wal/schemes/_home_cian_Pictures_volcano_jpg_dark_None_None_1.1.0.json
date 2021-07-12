@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/cian/Pictures/volcano.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#090513",
+        "foreground": "#bfb3bc",
+        "cursor": "#bfb3bc"
+    },
+    "colors": {
+        "color0": "#090513",
+        "color1": "#6B5469",
+        "color2": "#B94F46",
+        "color3": "#9A6063",
+        "color4": "#E79565",
+        "color5": "#D7A96E",
+        "color6": "#706D89",
+        "color7": "#bfb3bc",
+        "color8": "#857d83",
+        "color9": "#6B5469",
+        "color10": "#B94F46",
+        "color11": "#9A6063",
+        "color12": "#E79565",
+        "color13": "#D7A96E",
+        "color14": "#706D89",
+        "color15": "#bfb3bc"
+    }
+}

@@ -1,0 +1,15 @@
+map <C-i> recolor
+
+set recolor true
+
+set recolor-lightcolor '#2E3440'
+
+set highlight-color '#8fbcbb'
+
+set highlight-active-color '#8fbcbb'
+
+set statusbar-bg '#2E3440'
+
+set highlight-transparency 0.2
+
+set default-bg "#000000"

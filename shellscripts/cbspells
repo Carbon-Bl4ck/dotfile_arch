@@ -1,0 +1,44 @@
+#!/bin/sh
+
+. "${HOME}/.cache/wal/colors.sh"
+
+menu(){
+	printf "1. [DOI] Invenio Citation: Generate citation\n"
+	printf "2. [URL] Lumbos dl: Download file in ~/dl\n"
+	printf "3. [URL] Liberum Scientiam: Bypass article paywall\n"
+	printf "4. [URL/DOI] Scientia potentia est: Download PDF with Sci-hub\n"
+}
+
+spell_failed(){
+	notify-send "Failed to cast spell"
+}
+
+choice=$(menu | dmenu -nb "$color0" -sb "$color1" -p "Clipboard spells:" -i -l 15 | cut -d. -f1)
+cbtext=$(xclip -o -selection clipboard)
+
+case $choice in
+	1)
+		~/shellscripts/getbib $cbtext >> ~/Latex/refs.bib &&
+			notify-send "Adding citation" ||
+				spell_failed
+		break
+		;;
+	2)
+		wget -P ~/dl $cbtext &&
+			notify-send "Downloading File" ||
+				spell_failed
+		break
+		;;
+	3)
+		~/shellscripts/libre.sh $cbtext &&
+			notify-send "Opening article" ||
+				spell_failed
+		break
+		;;
+	4)
+		~/shellscripts/scihub.sh $cbtext &&
+			notify-send "Preparing download" ||
+				spell_failed
+		break
+		;;
+esac

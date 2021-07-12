@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/cian/reddit/photos/wallpapers/9dgfkknm6pf61.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0E0C13",
+        "foreground": "#ded2dd",
+        "cursor": "#ded2dd"
+    },
+    "colors": {
+        "color0": "#0E0C13",
+        "color1": "#76638D",
+        "color2": "#93748D",
+        "color3": "#D2568C",
+        "color4": "#AF909E",
+        "color5": "#D4A99E",
+        "color6": "#D9C3B9",
+        "color7": "#ded2dd",
+        "color8": "#9b939a",
+        "color9": "#76638D",
+        "color10": "#93748D",
+        "color11": "#D2568C",
+        "color12": "#AF909E",
+        "color13": "#D4A99E",
+        "color14": "#D9C3B9",
+        "color15": "#ded2dd"
+    }
+}

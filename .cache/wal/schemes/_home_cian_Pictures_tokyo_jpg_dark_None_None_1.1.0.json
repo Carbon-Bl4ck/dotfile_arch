@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/cian/Pictures/tokyo.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#120d21",
+        "foreground": "#a3c3e2",
+        "cursor": "#a3c3e2"
+    },
+    "colors": {
+        "color0": "#120d21",
+        "color1": "#C1475B",
+        "color2": "#232C90",
+        "color3": "#5B2A9A",
+        "color4": "#4B4CB7",
+        "color5": "#963395",
+        "color6": "#A858B4",
+        "color7": "#a3c3e2",
+        "color8": "#72889e",
+        "color9": "#C1475B",
+        "color10": "#232C90",
+        "color11": "#5B2A9A",
+        "color12": "#4B4CB7",
+        "color13": "#963395",
+        "color14": "#A858B4",
+        "color15": "#a3c3e2"
+    }
+}

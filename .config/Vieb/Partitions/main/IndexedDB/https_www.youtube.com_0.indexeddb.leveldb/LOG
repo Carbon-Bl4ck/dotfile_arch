@@ -1,0 +1,5 @@
+2021/04/13-13:39:27.820 19f3 Reusing MANIFEST /home/cian/.config/Vieb/Partitions/main/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/04/13-13:41:52.473 1c4a Level-0 table #5: started
+2021/04/13-13:41:52.529 1c4a Level-0 table #5: 93163 bytes OK
+2021/04/13-13:41:52.562 1c4a Delete type=0 #3
+2021/04/13-13:41:52.562 1c4a Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,19 @@
+#!/bin/bash
+
+. "${HOME}/.cache/wal/colors.sh"
+
+configdir="$HOME/.config/"
+
+if [ -z "$1" ]; then
+	directory=$(dmenu -nb "$color0" -sb "$color1" -p "Select Folder" -i -l 10 < "$configdir/wallpaper.txt" | cut -d\| -f1 | awk '{$1=$1;print}')
+
+	[ -z "$directory" ] && exit 1
+else 
+	directory=$1
+fi
+
+selection=$(ls $directory/*.jpg | sxiv -tio )
+
+wal -i $selection
+bspc wm -r
+pywalfox update

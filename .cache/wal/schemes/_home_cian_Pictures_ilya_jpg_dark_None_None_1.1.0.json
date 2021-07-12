@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/cian/Pictures/ilya.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#1f0f11",
+        "foreground": "#e6d9d2",
+        "cursor": "#e6d9d2"
+    },
+    "colors": {
+        "color0": "#1f0f11",
+        "color1": "#CE9077",
+        "color2": "#6C7986",
+        "color3": "#688893",
+        "color4": "#7696A0",
+        "color5": "#D9AF94",
+        "color6": "#D4AE9C",
+        "color7": "#e6d9d2",
+        "color8": "#a19793",
+        "color9": "#CE9077",
+        "color10": "#6C7986",
+        "color11": "#688893",
+        "color12": "#7696A0",
+        "color13": "#D9AF94",
+        "color14": "#D4AE9C",
+        "color15": "#e6d9d2"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/cian/Pictures/wallhaven-731vl3.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0a070a",
+        "foreground": "#ebdecf",
+        "cursor": "#ebdecf"
+    },
+    "colors": {
+        "color0": "#0a070a",
+        "color1": "#936C5E",
+        "color2": "#A06941",
+        "color3": "#C4936E",
+        "color4": "#877A84",
+        "color5": "#B0A19B",
+        "color6": "#D1B3A3",
+        "color7": "#ebdecf",
+        "color8": "#a49b90",
+        "color9": "#936C5E",
+        "color10": "#A06941",
+        "color11": "#C4936E",
+        "color12": "#877A84",
+        "color13": "#B0A19B",
+        "color14": "#D1B3A3",
+        "color15": "#ebdecf"
+    }
+}

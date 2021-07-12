@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/cian/Pictures/forest-trees-deer-animal-horns-grass-sky-stars-tilight-night.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#091133",
+        "foreground": "#ebc4c2",
+        "cursor": "#ebc4c2"
+    },
+    "colors": {
+        "color0": "#091133",
+        "color1": "#48388F",
+        "color2": "#2A5B9E",
+        "color3": "#525AA2",
+        "color4": "#B16D8F",
+        "color5": "#429FC5",
+        "color6": "#4F9DC9",
+        "color7": "#ebc4c2",
+        "color8": "#a48987",
+        "color9": "#48388F",
+        "color10": "#2A5B9E",
+        "color11": "#525AA2",
+        "color12": "#B16D8F",
+        "color13": "#429FC5",
+        "color14": "#4F9DC9",
+        "color15": "#ebc4c2"
+    }
+}

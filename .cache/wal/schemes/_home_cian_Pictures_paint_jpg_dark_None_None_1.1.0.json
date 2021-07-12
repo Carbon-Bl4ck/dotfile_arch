@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/cian/Pictures/paint.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0f0a22",
+        "foreground": "#e69ea7",
+        "cursor": "#e69ea7"
+    },
+    "colors": {
+        "color0": "#0f0a22",
+        "color1": "#910473",
+        "color2": "#B40273",
+        "color3": "#DE2E5F",
+        "color4": "#D30B69",
+        "color5": "#DC2C62",
+        "color6": "#AF475F",
+        "color7": "#e69ea7",
+        "color8": "#a16e74",
+        "color9": "#910473",
+        "color10": "#B40273",
+        "color11": "#DE2E5F",
+        "color12": "#D30B69",
+        "color13": "#DC2C62",
+        "color14": "#AF475F",
+        "color15": "#e69ea7"
+    }
+}

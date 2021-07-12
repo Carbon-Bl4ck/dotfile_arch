@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/cian/Pictures/synth.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#00001B",
+        "foreground": "#d196e2",
+        "cursor": "#d196e2"
+    },
+    "colors": {
+        "color0": "#00001B",
+        "color1": "#64039E",
+        "color2": "#7950BD",
+        "color3": "#5E22CF",
+        "color4": "#544EE6",
+        "color5": "#9C05A3",
+        "color6": "#DC0FA6",
+        "color7": "#d196e2",
+        "color8": "#92699e",
+        "color9": "#64039E",
+        "color10": "#7950BD",
+        "color11": "#5E22CF",
+        "color12": "#544EE6",
+        "color13": "#9C05A3",
+        "color14": "#DC0FA6",
+        "color15": "#d196e2"
+    }
+}

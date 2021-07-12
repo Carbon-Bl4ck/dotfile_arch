@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/cian/Pictures/wallhaven-4lgmyr.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0B080F",
+        "foreground": "#eac8e8",
+        "cursor": "#eac8e8"
+    },
+    "colors": {
+        "color0": "#0B080F",
+        "color1": "#6E5E91",
+        "color2": "#99649E",
+        "color3": "#CE49A6",
+        "color4": "#E868D8",
+        "color5": "#888694",
+        "color6": "#AC93B0",
+        "color7": "#eac8e8",
+        "color8": "#a38ca2",
+        "color9": "#6E5E91",
+        "color10": "#99649E",
+        "color11": "#CE49A6",
+        "color12": "#E868D8",
+        "color13": "#888694",
+        "color14": "#AC93B0",
+        "color15": "#eac8e8"
+    }
+}

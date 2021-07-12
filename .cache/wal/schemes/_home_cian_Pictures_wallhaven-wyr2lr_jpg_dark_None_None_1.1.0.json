@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/cian/Pictures/wallhaven-wyr2lr.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#000000",
+        "foreground": "#e7e6e7",
+        "cursor": "#e7e6e7"
+    },
+    "colors": {
+        "color0": "#000000",
+        "color1": "#807F80",
+        "color2": "#8E8E8E",
+        "color3": "#A09FA0",
+        "color4": "#ADADAD",
+        "color5": "#C0BFC0",
+        "color6": "#CFCFCF",
+        "color7": "#e7e6e7",
+        "color8": "#a1a1a1",
+        "color9": "#807F80",
+        "color10": "#8E8E8E",
+        "color11": "#A09FA0",
+        "color12": "#ADADAD",
+        "color13": "#C0BFC0",
+        "color14": "#CFCFCF",
+        "color15": "#e7e6e7"
+    }
+}

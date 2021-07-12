@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/cian/Pictures/wallhaven-vm69rm.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0B0B0D",
+        "foreground": "#dfdfdf",
+        "cursor": "#dfdfdf"
+    },
+    "colors": {
+        "color0": "#0B0B0D",
+        "color1": "#7F807F",
+        "color2": "#7F8180",
+        "color3": "#8D8E8E",
+        "color4": "#9FA09F",
+        "color5": "#ABADAC",
+        "color6": "#BEC0BF",
+        "color7": "#dfdfdf",
+        "color8": "#9c9c9c",
+        "color9": "#7F807F",
+        "color10": "#7F8180",
+        "color11": "#8D8E8E",
+        "color12": "#9FA09F",
+        "color13": "#ABADAC",
+        "color14": "#BEC0BF",
+        "color15": "#dfdfdf"
+    }
+}
