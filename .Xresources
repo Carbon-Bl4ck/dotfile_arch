@@ -1,0 +1,74 @@
+! Base color
+*.foreground: #D8DEE9
+*.background: #2E3440
+*.color0:     #3B4252
+*.color8:     #4C566A
+*.color1:     #BF616A
+*.color9:     #BF616A
+*.color2:     #A3BE8C
+*.color10:    #A3BE8C
+*.color3:     #EBCB8B
+*.color11:    #EBCB8B
+*.color4:     #81A1C1
+*.color12:    #81A1C1
+*.color5:     #B48EAD
+*.color13:    #B48EAD
+*.color6:     #88C0D0
+*.color14:    #8FBCBB
+*.color7:     #E5E9F0
+*.color15:    #ECEFF4
+
+! Rofi
+rofi.font: monospace 12
+rofi.padding: 20
+rofi.line-padding: 2
+rofi.color-enabled: true
+rofi.hide-scrollbar: true
+rofi.separator-style: solid
+rofi.color-window: #1c2023, #919ba0, #1c2023
+rofi.color-normal: #1c2023, #919ba0, #1c2023, #a4a4a4, #1c2023
+rofi.color-urgent: argb:00000000, #f43753, argb:00000000, argb:00000000, #e29a49
+rofi.color-active: argb:00000000, #49bbfb, argb:00000000, argb:00000000, #e29a49
+rofi.kb-cancel: Escape,Alt+F1
+
+! xterm
+xterm*termName: xterm-256color
+xterm*font: monospace
+xterm*faceName: monospace:size=11
+xterm*loginShell: true
+xterm*vt100*geometry: 90x34
+xterm*saveLines: 2000
+xterm*charClass: 33:48,35:48,37:48,43:48,45-47:48,64:48,95:48,126:48
+xterm*eightBitInput: false
+
+xterm*vt100.translations: #override \
+	Shift~Ctrl<Key>C: copy-selection(CLIPBOARD) \n\
+	Shift~Ctrl<Key>V: insert-selection(CLIPBOARD) 
+
+! URxvt
+*foreground: {foreground}
+*background: {background}
+*.foreground: {foreground}
+*.background: {background}
+URxvt*saveline: 15000
+URxvt*termName: rxvt-256color
+URxvt*iso14755: false
+URxvt*depth: 32
+URxvt*background: {background.beta}
+URxvt*scrollBar: false
+URxvt*scrollBar_right: false
+URxvt*internalBorder: 0
+URxvt*externalBorder: 0
+URxvt*letterSpace: -1
+URxvt.font: xft:monospace:size=11
+URxvt.copyCommand: xclip -i -selection clipboard
+URxvt.pasteCommand: xclip -o -selection clipboard
+URxvt.urlLauncher: exo-open
+URxvt.underlineURLs: true
+URxvt.urlButton: 1
+URxvt.geometry: 90x34
+URxvt.tabbed.tabbar-fg: 4
+URxvt.tabbed.tabbar-bg: 16
+URxvt.tabbed.tab-fg: 15
+URxvt.tabbed.tab-bg: 4
+URxvt*buffered: false
